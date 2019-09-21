@@ -13,11 +13,13 @@
     "author": "Apache Cordova Team",
     "license": "Apache-2.0",
     "dependencies": {
-        "heyzap-cordova": "^1.5.1"
+        "heyzap-cordova": "^1.5.1",
+        "cordova-plugin-whitelist": "1"
     },
     "cordova": {
         "plugins": {
-            "heyzap-cordova": {}
+            "heyzap-cordova": {},
+            "cordova-plugin-whitelist": {}
         }
     }
 }
