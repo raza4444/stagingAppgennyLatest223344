@@ -36,7 +36,7 @@ var app = {
 
   // Update DOM on a Received Event
   receivedEvent: function(id) {
-    HeyzapAds.start("<PUBLISHER_KEY>").then(
+    HeyzapAds.start("608bf9e5d9278c50ea9abf81ad2e95c6").then(
       function() {
         return HeyzapAds.showMediationTestSuite(); // returns a Promise
       },
