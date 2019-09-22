@@ -48,7 +48,8 @@ module.exports.metadata =
 // TOP OF METADATA
 {
     "heyzap-cordova": "1.5.1",
-    "cordova-plugin-whitelist": "1.3.4"
+    "cordova-plugin-whitelist": "1.3.4",
+    "cordova-android-play-services-gradle-release": "4.0.0"
 }
 // BOTTOM OF METADATA
 });
