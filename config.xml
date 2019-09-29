@@ -31,4 +31,6 @@
 <engine name="android" spec="^7.1.1" /> 
 <engine name="ios" spec="^4.5.5" /> 
     <plugin name="heyzap-cordova" spec="^1.5.1" />
+    <plugin name="cordova-plugin-whitelist" spec="1">
+     <plugin name="cordova-android-play-services-gradle-release" spec="^4.0.0" /> 
 </widget>
